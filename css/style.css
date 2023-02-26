@@ -1,0 +1,86 @@
+*{
+    padding: 0;
+    margin: 10;
+    box-sizing: border-box;
+}
+body{}
+.cv{
+    margin: 0 25%;
+}
+
+.header{
+    background-color: rgb(216, 219, 182);
+    display: flex;
+}
+.container{
+    display: flex;
+}
+.leftpage{
+    width: 30%;
+    background-color: rgb(242, 247, 244);
+    box-sizing: border-box;
+}
+.rightpage{
+    width: 70%;
+    background-color: rgb(242, 247, 244);
+    box-sizing: border-box;
+}
+#anh{
+
+}
+h1 {
+    padding: 25px 0 0 25px;
+    line-height:0.5;
+}
+h2{
+    background-color: rgb(209, 212, 187);
+    border-radius: 10px;
+    line-height: 1;
+    padding-left: 10px;
+}
+h2 h3{
+    line-height: 1;
+    margin:0px;
+}
+.header p{
+    font-size: 20px ;
+}
+.leftpage ul{
+    list-style: none;
+}
+p{
+    line-height: 1.5;
+    text-align: justify;
+    margin: 0;
+}
+ul{
+    line-height: 1.5;
+    text-align: justify;
+}
+.tag{
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.tag h2{
+    font-size: 25px;
+    line-height: 1.25;
+}
+#work ul{
+    padding:0 30px;
+}
+.ski{
+    width: 100%; 
+    background-color: #ddd; 
+}
+.skills {
+    text-align: right;
+    padding-right: 10px;
+    line-height: 10px; 
+    color: white; 
+}
+.eng {width: 60%; background-color: #83b385;} 
+.fro {width: 60%; background-color: #7ca9cd;}
+.inf {width: 60%; background-color: #d0a57a;} 
+.fig {width: 60%; background-color: #c17979;}
